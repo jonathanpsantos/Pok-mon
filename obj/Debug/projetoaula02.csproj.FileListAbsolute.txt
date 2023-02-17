@@ -1,0 +1,9 @@
+C:\Users\Laboratorio-Info\source\repos\projetoaula02\projetoaula02\bin\Debug\projetoaula02.exe.config
+C:\Users\Laboratorio-Info\source\repos\projetoaula02\projetoaula02\bin\Debug\projetoaula02.exe
+C:\Users\Laboratorio-Info\source\repos\projetoaula02\projetoaula02\bin\Debug\projetoaula02.pdb
+C:\Users\Laboratorio-Info\source\repos\projetoaula02\projetoaula02\obj\Debug\projetoaula02.Form1.resources
+C:\Users\Laboratorio-Info\source\repos\projetoaula02\projetoaula02\obj\Debug\projetoaula02.Properties.Resources.resources
+C:\Users\Laboratorio-Info\source\repos\projetoaula02\projetoaula02\obj\Debug\projetoaula02.csproj.GenerateResource.cache
+C:\Users\Laboratorio-Info\source\repos\projetoaula02\projetoaula02\obj\Debug\projetoaula02.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio-Info\source\repos\projetoaula02\projetoaula02\obj\Debug\projetoaula02.exe
+C:\Users\Laboratorio-Info\source\repos\projetoaula02\projetoaula02\obj\Debug\projetoaula02.pdb
